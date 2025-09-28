@@ -5,8 +5,8 @@
   "name":"VIRUSI-MBAYA-MD",
   "description":"Best whatsapp bot developed by VIRUSI 🦠 MBAYA HIV",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/8wl1l2.jpg",
-  "repository":"https://github.com/ekitale/maths-project",
+  "logo":"https://files.catbox.moe/sigghy.jpg",
+  "repository":"https://files.catbox.moe/sigghy.jpg",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -105,7 +105,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/8wl1l2.jpg",
+      "value":"https://files.catbox.moe/sigghy.jpg",
       "required":false
        
      },
